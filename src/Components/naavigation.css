@@ -1,0 +1,37 @@
+.navitem {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.nav_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+}
+.navigation_container {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  
+}
+.logo_container {
+  width: 50%;
+  display: flex;
+
+}
+svg._8pSp- {
+  margin-left: 2.9%;
+}
+.header_container {
+  display: flex;
+  align-items: center;
+  padding: 1.4% 0 1%;
+  box-shadow: 3px 2px 2px #e6e6e6;
+}
+.header_container{
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
